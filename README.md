@@ -77,6 +77,12 @@ how 가슴에 빔프로젝터와 카메라를 두고 동작을 인식하는 센�
 
 
   - 우리가 상상한 미래
+	
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0cd86bd5-491b-4162-b434-7fccad6dbdea" />
+
+
+
+    
   - 우리가 그리는 미래 그리고 나
 
 - 각오와 소감 나누기 ✔️  
