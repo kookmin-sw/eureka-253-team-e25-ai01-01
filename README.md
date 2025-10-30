@@ -78,7 +78,7 @@ how 가슴에 빔프로젝터와 카메라를 두고 동작을 인식하는 센�
 
   - 우리가 상상한 미래
 	
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0cd86bd5-491b-4162-b434-7fccad6dbdea" />
+<img width="832" height="1248" alt="Generated Image October 30, 2025 - 9_33PM" src="https://github.com/user-attachments/assets/871e6249-c12b-46fb-ac05-a55987bd9d6e" />
 
 현재 스마트 팜은 온도, 습도, 조도, 토양 수분 등을 센서로 모니터링 할 수 있으며 자동으로 물을 주고 조명을 조절하지만 미래의 스마트 팜은 ai가 기후, 토양 조건에 맞는 최적의 작물 품종을 스스로 설계하고 드론, 로봇과도 협력해 수확, 포장까지 무인으로 처리하여 완전하게 자율적으로 운영하여 사람은 모니터링만 할 수 있도록 발전할 것이다
 
