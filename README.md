@@ -59,7 +59,9 @@
 #### 💡 멘토링 활동
 - 지도 교수 면담
 - 대학원 방문 및 선배 멘토링
-- [유레카 프로젝트 카카오톡](https://github.com/user-attachments/assets/d13b0190-d0f4-418a-ba69-a0e349b82780)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d13b0190-d0f4-418a-ba69-a0e349b82780" width="600" alt="대학원생 선배와의 만남"/>
+</div>
 
 ---
 
