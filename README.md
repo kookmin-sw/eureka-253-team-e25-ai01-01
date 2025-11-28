@@ -50,12 +50,6 @@
 
 ### ✅ 완료한 활동
 
-#### 🎤 기관/부서 인터뷰
-프로젝트 준비를 위한 현장 기관 및 부서 인터뷰를 진행했습니다.
-
-#### 🏢 현장 탐방
-실제 현장을 방문하여 산업 현황을 직접 체험했습니다.
-
 #### 💡 멘토링 활동
 - 지도 교수 면담
 - 대학원 방문 및 선배 멘토링
@@ -218,18 +212,7 @@
 > "소감 내용을 여기에 작성합니다."
 
 ---
-
 <div align="center">
-
-## 📚 Resources
-
-**Markdown 가이드**  
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-
-**Support**  
-[GitHub 도움말](https://help.github.com/articles/about-readmes/) | [Contact Support](https://github.com/contact)
-
----
 
 *Made with ❤️ by Team 1 | Kookmin University AI Department*
 
