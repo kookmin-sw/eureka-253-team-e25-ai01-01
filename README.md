@@ -52,6 +52,9 @@
 
 #### 💡 멘토링 활동
 - 지도 교수 면담
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/153f1561-3cb9-4c00-a60f-fe6bbea2b7fb" width="600" alt="지도 교수님과의 만남"/>
+</div>
 - 대학원 방문 및 선배 멘토링
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d13b0190-d0f4-418a-ba69-a0e349b82780" width="600" alt="대학원생 선배와의 만남"/>
