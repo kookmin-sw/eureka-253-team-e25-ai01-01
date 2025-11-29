@@ -426,7 +426,6 @@
 *"청춘의 한계는 없다. 배우고 도전하는 과정을 즐기며, 미래를 함께 만들어갑니다."*
 
 </div>
----
 <div align="center">
 
 *Made with ❤️ by Team 1 | Kookmin University AI Department*
